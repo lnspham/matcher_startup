@@ -213,6 +213,8 @@ section#bg-image aside a {
 }
 
 footer {
+  width: 100%;
+  float: left;
   background: #000;
   color: #FFF;
   padding: 15px 30px;
