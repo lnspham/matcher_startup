@@ -163,7 +163,6 @@ section#bg-image aside a {
 
 #wrapper {
   padding: 30px;
-  float: left;
   background: rgb(255, 255, 255);
 }
 
@@ -213,8 +212,6 @@ section#bg-image aside a {
 }
 
 footer {
-  width: 100%;
-  float: left;
   background: #000;
   color: #FFF;
   padding: 15px 30px;
